@@ -22,12 +22,15 @@
   },
   "adminBot": [
     "100076373724273"
+    61586881014447
   ],
   "premiumUsers": [
     "100076373724273"
+    61586881014447
   ],
   "devUsers": [
     "100076373724273"
+    61586881014447
   ],
   "notes_premiumUsers": "List of user IDs with premium access (role 3)",
   "notes_devUsers": "List of developer IDs with full access (role 4)",
@@ -35,6 +38,7 @@
     "enable": false,
     "whiteListIds": [
       "61588057525081"
+      61586881014447
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
   },
