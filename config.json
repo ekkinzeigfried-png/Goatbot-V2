@@ -12,7 +12,7 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "গেসুকে 😈",
+  "nickNameBot": "ken kaneki😈",
   "prefix": "~",
   "noPrefix": true,
   "noPrefixNotes": "When true, Bot Admins (role 2) and Developers (role 4) can run commands without the prefix",
@@ -31,11 +31,11 @@
   "devUsers": [
     "61586881014447"
     
-  ],
+  ],"61586881014447"
   "notes_premiumUsers": "List of user IDs with premium access (role 3)",
   "notes_devUsers": "List of developer IDs with full access (role 4)",
   "whiteListMode": {
-    "enable": false,
+    "enable": true,
     "whiteListIds": [
       "61586881014447"
       
